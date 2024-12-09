@@ -40,7 +40,7 @@ Start by cloning the repository containing the honeypot to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/ssh-honeypot.git
+git clone https://github.com/R4x4nJ031/ssh-honeypot.git
 cd ssh-honeypot
 2. Edit Configuration
 The main configuration file is embedded within the honeypot.py script. If you want to customize the honeypot's behavior (e.g., changing the SSH port, username, or password), edit the following lines in honeypot.py:
